@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React Video Player</h1>
+        <h2>Narendra</h2>
       </header>
     </div>
   );
